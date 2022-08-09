@@ -96,5 +96,5 @@ The columns in the dataset are described as follows:
 ## Conclusion
 
   <img src="Images/Performance.png" width="550" height="350">
-According to the bar graph shown, we can conclude that Random Forest Classifier seems to produce excellent results. The performance of the Random Forest Classifier is consistent between the training and testing datasets, so there is no overfitting
->>>>>>> c4eb59a (Upload)
+According to the bar graph shown, we can conclude that Random Forest Classifier seems to produce excellent results. The performance of the Random Forest Classifier is consistent between the training and testing datasets, so there is no overfitting.
+
