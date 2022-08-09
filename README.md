@@ -1,6 +1,5 @@
 # Fraudulent Transaction Detection
 
-=======
 <img src="Images/image1.png" width="530" height="450">
 
 ## Introduction
