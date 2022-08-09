@@ -1,7 +1,5 @@
 # Fraudulent Transaction Detection
 
-<<<<<<< HEAD
-https://fraudulent-transaction-detect.herokuapp.com/
 =======
 <img src="Images/image1.png" width="530" height="450">
 
